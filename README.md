@@ -1,6 +1,6 @@
-# {Company} {Api Name} Postman Collection
+# TPA Stream Postman Collection
 
-This repository contains a [Postman Collection](https://learning.postman.com/docs/sending-requests/intro-to-collections/) for <{docs_url}>.
+This repository contains a [Postman Collection](https://learning.postman.com/docs/sending-requests/intro-to-collections/) for <https://tpastream.mintlify.com/getting-started/connecting-health-api>.
 
 ## What is a Postman Collection?
 
@@ -8,4 +8,4 @@ This repository contains a [Postman Collection](https://learning.postman.com/doc
 
 ## Issues
 
-Feel free to [leave an issue](https://github.com/fern-{company}/{company}-postman) on this repo. 
+Feel free to [leave an issue](https://github.com/fern-tpastream/tpastream-postman) on this repo. 
